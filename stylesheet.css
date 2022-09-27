@@ -1,0 +1,99 @@
+body {
+  width: 100%;
+  height: 100vh;
+  margin: 0;
+  text-align: center;
+  font-size: 17px;
+  color: #303030;
+  font-family: Georgia;
+}
+
+.center {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+img {
+  margin-bottom: 1em;
+  width: 12.5%;
+}
+
+#logo {
+  margin-top: 1em;
+  margin-bottom: 0;
+  border-bottom: solid 0.15em #faae61;
+}
+
+#header {
+  color: #013220;
+  margin-left: auto;
+  margin-right: auto;
+  background: #f8f6e4;
+  margin: 0%;
+  padding: 0.5em;
+  width: 100%;
+  height: 3em;
+}
+
+.recipe {
+  width: 60vw;
+  max-width: 500px;
+  min-width: 50em;
+  margin: 0 auto;
+  margin-top: 5em;
+  padding-bottom: 2em;
+}
+
+.recipe img {
+  width: 50em;
+  margin-bottom: 0;
+  border-radius: 0.5em;
+  filter: drop-shadow(5px 5px 4px #dbdbdb);
+}
+
+.recipe p {
+  text-align: justify;
+}
+
+#under-image {
+  text-align: center;
+  color: grey;
+}
+
+#ingridients {
+  text-align: justify;
+}
+
+.featured {
+  margin: 0px;
+  border-left: 2px solid salmon;
+}
+
+#featured {
+  margin: 1px 0;
+  color: salmon;
+  font-size: 1.2em;
+  font-weight: bold;
+  margin-left: 8px;
+}
+
+#linkcran {
+  margin: 1px 0;
+  margin-left: 8px;
+}
+
+#method {
+  margin-left: 15px;
+  margin-top: 15px;
+}
+
+h2 {
+  border-bottom: 2px solid lightcyan;
+  padding: 0.7em 0;
+  margin-bottom: 0;
+}
+
+a {
+  color: rgb(0, 150, 150);
+}
